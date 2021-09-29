@@ -1,0 +1,23 @@
+{
+  "name": "introtobootstrap",
+  "version": "1.0.0",
+  "description": "This is a repository for my first attempts at bootstrap styling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Laura-Stitt/introtobootstrap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Laura-Stitt/introtobootstrap/issues"
+  },
+  "homepage": "https://github.com/Laura-Stitt/introtobootstrap#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.1",
+    "jquery": "^3.6.0"
+  }
+}

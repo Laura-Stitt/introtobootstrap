@@ -1,0 +1,88 @@
+body {
+    background-image: url("https://cdn.hipwallpaper.com/i/71/71/WL9opE.jpg");
+    font-family: Papyrus;
+}
+.row {
+margin-top: 15px;
+text-align: center;
+}
+.list-group-item{
+    background: none;
+    border: none;
+}
+h1, h2 {
+    color: black;
+    text-align: center;
+    font-weight: bolder;    
+}
+.header {
+    padding: 12px;
+}
+/* unvisited link */
+a:link {
+    color:slateblue;
+}
+/* visited link*/
+a:visited {
+    color: indigo;
+}
+/* mouse over link */
+a:hover {
+    color: firebrick;
+    font-weight: bolder;
+}
+
+p {
+    max-width: 500px;
+    border: 5px solid darkslategray;
+    border-radius: 50%;
+    text-align: center;
+    padding: 40px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+    border-radius: 5%;
+    padding: 8px;
+   }
+
+ul {
+   list-style: none;
+}
+.picture-center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+.jumbo {
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.vOzayrHjdYQlirqTspwG7QEsDh%26pid%3DApi&f=1);
+    background-size: cover;
+    height: 600px;
+    overflow: hidden;
+}
+
+.jumbo h3 {
+    color: #4f5d61;
+    opacity: 0.9;
+    font-size: 4rem;
+    background-color: #fafafabb;
+    border-radius: 10px;
+    margin-top: 8px;
+}
+
+.jumbo h4 {
+    color: #4f5d61;
+    opacity: 0.9;
+    font-size: 4rem;
+    background-color: #fafafabb;
+    border-radius: 10px;
+}
+
+button {
+    margin-top: 8px;
+}
